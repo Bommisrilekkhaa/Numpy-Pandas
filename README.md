@@ -6,7 +6,7 @@ gpu --> vector processing(pixel)-->more core
 
 cpu --> less core more time in multithreading/paralellism
 
-Difference b/w numpy and pandas
+# Difference b/w numpy and pandas:
 
 array format and table format
 numpy --> can access using only index
@@ -35,21 +35,29 @@ roboflow website ----> data annotation/segmentation site
 
 --- Stages in ML ---
 
-dataset stage:
+# dataset stage:
 
-collect
-organise
-label
-preprocess
-model stage:
+1. collect
 
-train
-model build
-deploy stage:
+2. organise
+  
+3. label
+   
+4. preprocess
+   
+# model stage:
 
-test
-deploy
-Pandas
+1. train
+   
+2. model build
+   
+# deploy stage:
+
+1. test
+   
+2. deploy
+   
+## Pandas:
 
 series --> 1D
 
