@@ -1,3 +1,5 @@
+# Numpy & Pandas Worksheet !!
+
 colab--virtual environment , run in live server
 
 tpu --> tensor processing (matrix -- 2D)(vector (Magnitude ,direction) --1D)(availibilty will not always present as trafic will be there in colab)
